@@ -1,0 +1,7 @@
+img {
+    width: 30%;
+    height: 250px;
+    float: left;
+    margin: 1.66%;
+    box-shadow: 0 10px 15px 0 gray;
+}
