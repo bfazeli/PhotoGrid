@@ -5,3 +5,14 @@ img {
     margin: 1.66%;
     box-shadow: 0 10px 15px 0 gray;
 }
+
+p {
+    font-family: Raleway, monospace;
+    margin-left: 1.66%;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding-bottom: 1%;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+}
